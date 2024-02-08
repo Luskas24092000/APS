@@ -1,0 +1,12 @@
+{
+    "name": "meu-projeto",
+    "version": "1.0.0",
+    "description": "Projeto que utiliza o Singleton em JavaScript",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Lucas",
+    "license": "MIT"
+  }
+  
